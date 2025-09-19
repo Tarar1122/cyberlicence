@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleDisplayName</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleExecutable</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleName</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundlePackageType</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleShortVersionString</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleSignature</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>CFBundleVersion</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>UIMainStoryboardFile</key>
+	<string>com.kanixy.cyberlicence</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>com.kanixy.cyberlicence</string>
+		<string>com.kanixy.cyberlicence</string>
+		<string>com.kanixy.cyberlicence</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>com.kanixy.cyberlicence</string>
+		<string>com.kanixy.cyberlicence</string>
+		<string>com.kanixy.cyberlicence</string>
+		<string>com.kanixy.cyberlicence</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+</dict>
+</plist>
